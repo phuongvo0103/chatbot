@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chatbot api nodejs and reactjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongvo0103/chatbot.git"
+  },
+  "author": "chatbotteam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongvo0103/chatbot/issues"
+  },
+  "homepage": "https://github.com/phuongvo0103/chatbot#readme",
+  "dependencies": {
+    "watson-developer-cloud": "~2.29.0"
+  }
+}
